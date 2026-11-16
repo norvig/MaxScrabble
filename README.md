@@ -7,6 +7,8 @@ In Scrabble Solitaire, the idea is to make the highest possible total score, usi
 
 I vibe-coded a program that generates a **4,046 point** game, using a word list that merges the standard ENABLE Scrabble list with the obsolete Webster's Second, including several words (such as JACKPUDDINGHOOD) that would  not be legal in tournament play today.   My goal was to beat a [famous game](https://digitalcommons.butler.edu/cgi/viewcontent.cgi?article=2692&context=wordways) that scored **4,001 points** using a similar word list. I achieved my goal.
 
+<img src="scrabble_4046.gif" width=800>
+
 <img src="scrabble_4046.png" width=800>
 
 
