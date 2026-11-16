@@ -1,24 +1,23 @@
 <div style="text-align: right" align="right"><i>Peter Norvig<br>Nov 2026</i></div>
 
-# A 4,068-point Scrabble Solitaire Game
+# A 4,046-point Scrabble Solitaire Game
 
-In Scrabble Solitaire, the idea is to make the highest possible total score, using a standard board, the standard tiles from the 100-tile bag, but allowing any set of up to 7 tiles to be chosen from the bag on each play. 
+In Scrabble Solitaire, the idea is to make the highest possible total score, using a standard board and the standard 100 tiles, but allowing any set of up to 7 tiles to be chosen from the bag on each play. 
 
 
-I vibe-coded a program that gets to a **4,068 point** game. The word list I used  merges the standard ENABLE Scrabble list with the obsolete Webster's Second. Several words, such as JACKPUDDINGHOOD, would  not be legal in tournament play today.
-My goal was to beat a [famous game](https://digitalcommons.butler.edu/cgi/viewcontent.cgi?article=2692&context=wordways) that scored **4,001 points** using a similar word list. I achieved my goal.
+I vibe-coded a program that generates a **4,046 point** game, using a word list that merges the standard ENABLE Scrabble list with the obsolete Webster's Second, including several words (such as JACKPUDDINGHOOD) that would  not be legal in tournament play today.   My goal was to beat a [famous game](https://digitalcommons.butler.edu/cgi/viewcontent.cgi?article=2692&context=wordways) that scored **4,001 points** using a similar word list. I achieved my goal.
 
-<img src="scrabble_4068.png" width=800>
+<img src="scrabble_4046.png" width=800>
 
 
 
 | file | what it is |
 |---|---|
 | `scrabmax.cpp` | the solver in C++ |
-| `game_4068.txt` | the best game found so far|
-| `enable_web2.txt` | the dictionary |
+| `big-clean.txt` | the word list |
 | `scrabble_video.py` | makes the MP4/GIF animation of a game |
-| `scrabble_4068.gif`, `.mp4`, `.png` | the animation and the final frame |
+| `game_4046.txt` | the best game found so far|
+| `scrabble_4046.gif`, `.mp4`, `.png` | the animation and the final frame |
 
 
 
