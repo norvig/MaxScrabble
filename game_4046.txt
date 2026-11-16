@@ -1,0 +1,43 @@
+BEST 4046  (JACKPUDDINGHOOD / SESQUICENTENARY / OXYPHENBUTAZONE)
+A  7  6 CENTENA         placed=7 score=70  plan
+A  7  6 CENTENAR        placed=1 score=10  plan
+A  7  0 SESQUICENTENARY placed=7 score=401  plan
+D  0  1 AGRAFFEE        placed=7 score=96  plan
+A  1  0 AG              placed=1 score=3  extra
+A  4  1 FA              placed=1 score=5  extra
+A  4  1 FAR             placed=1 score=6  extra
+D  7 11 NA              placed=1 score=2  extra
+D  0  4 PRIEDIEU        placed=7 score=88  plan
+D  0  9 NIMBLEST        placed=7 score=66  plan
+D  0 13 OUTTOWER        placed=7 score=88  plan
+D  7  2 SWIVETTY        placed=7 score=92  plan
+D  7  5 INGROOVE        placed=7 score=74  plan
+D  7 12 AMARILLO        placed=7 score=83  plan
+D  7 10 ELAEOSIA        placed=7 score=71  plan
+A  0  4 PUD             placed=2 score=6  plan
+A  0  8 IN              placed=1 score=2  plan
+A  0 12 OO              placed=1 score=2  plan
+A 14  4 HE              placed=1 score=5  plan
+A 14  9 TA              placed=1 score=2  plan
+A 14  8 UTA             placed=1 score=3  plan
+A 14 12 ON              placed=1 score=2  plan
+A  0  0 JACKPUDDINGHOOD placed=7 score=1319  plan
+A 14  0 OXYPHENBUTAZONE placed=7 score=1508  plan
+A 13  1 eT              placed=1 score=18  extra
+A  8 10 LAMs            placed=1 score=16  extra
+A 13 12 LI              placed=1 score=8  extra
+JACKPUDDINGHOOD
+AG..R....I...U.
+.R..I....M...T.
+.A..E....B...T.
+.FARD....L...O.
+.F..I....E...W.
+.E..E....S...E.
+SESQUICENTENARY
+..W..N....LAMs.
+..I..G....A.A..
+..V..R....E.R..
+..E..O....O.I..
+..T..O....S.L..
+.eT..V....I.LI.
+OXYPHENBUTAZONE
